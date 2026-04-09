@@ -1,3 +1,3 @@
 # myrepo-demo
 This is my first demo repository
-author - Aksah Kamble
+author - Akash Kamble
