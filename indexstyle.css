@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.red{
+    background-color: red;
+    height: 94vh;
+    width: 50%;
+    display: inline-block;
+    color: rgb(190, 231, 234);
+}
+.blue{
+    background-color: blue;
+    height: 94vh;
+    width: 50%;
+    display: inline-block;
+    color: rgb(252, 226, 226);
+}
+li{
+    display: inline;
+}
+header{
+    background-color: black;
+    padding: 10 0;
+    position: sticky;
+}
+a{
+    color: white;
+    text-decoration: none;
+    padding: 0 10;
+}
+footer{
+    background-color: black;
+}
+p{
+    color: white;
+    text-align: center;
+}
